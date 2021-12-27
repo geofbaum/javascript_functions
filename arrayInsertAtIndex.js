@@ -7,3 +7,5 @@ function frankenSplice(arr1, arr2, n) {
   console.log(newArr, arr2);
   return newArr;
 }
+
+console.log(frankenSplice([1, 2, 3], [4, 5, 6], 1));
